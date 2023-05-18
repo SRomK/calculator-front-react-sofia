@@ -1,3 +1,9 @@
+# Calculator Frontend React - Sofia Romero
+I created a basic calculator using `React` and to be able to demonstrate how I work with imported components inside the main App, which in this case is the calculator itself, and only created other components depending on the type of buttons (for digits or for operations).
+
+I also applied styles with `CSS`. Regarding the structure of my project I used grid and display properties.
+
+
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
